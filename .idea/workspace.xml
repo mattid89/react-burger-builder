@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8fc9b0a5-3dcd-4055-aa3b-ea807560b8fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bRvrMnd1jD8VgMms8IjxNtNGMF" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/package.json" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="star" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fc9b0a5-3dcd-4055-aa3b-ea807560b8fe" name="Default Changelist" comment="" />
+      <created>1588607918583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588607918583</updated>
+      <workItem from="1588607921046" duration="3000" />
+      <workItem from="1588607934903" duration="1286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="336" y="1193" width="1327" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588608543698">
+      <screen x="0" y="960" width="1920" height="1080" />
+    </state>
+    <state x="336" y="1193" width="1327" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.960.1920.1080/255.0.1280.960@0.960.1920.1080" timestamp="1588608543698" />
+    <state x="743" y="1270" width="424" height="484" key="FileChooserDialogImpl" timestamp="1588608376042">
+      <screen x="0" y="960" width="1920" height="1080" />
+    </state>
+    <state x="743" y="1270" width="424" height="484" key="FileChooserDialogImpl/0.960.1920.1080/255.0.1280.960@0.960.1920.1080" timestamp="1588608376042" />
+    <state width="1874" height="556" key="GridCell.Tab.0.bottom" timestamp="1588608711665">
+      <screen x="0" y="960" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="556" key="GridCell.Tab.0.bottom/0.960.1920.1080/255.0.1280.960@0.960.1920.1080" timestamp="1588608711665" />
+    <state width="1874" height="556" key="GridCell.Tab.0.center" timestamp="1588608711665">
+      <screen x="0" y="960" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="556" key="GridCell.Tab.0.center/0.960.1920.1080/255.0.1280.960@0.960.1920.1080" timestamp="1588608711665" />
+    <state width="1874" height="556" key="GridCell.Tab.0.left" timestamp="1588608711664">
+      <screen x="0" y="960" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="556" key="GridCell.Tab.0.left/0.960.1920.1080/255.0.1280.960@0.960.1920.1080" timestamp="1588608711664" />
+    <state width="1874" height="556" key="GridCell.Tab.0.right" timestamp="1588608711665">
+      <screen x="0" y="960" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="556" key="GridCell.Tab.0.right/0.960.1920.1080/255.0.1280.960@0.960.1920.1080" timestamp="1588608711665" />
+    <state x="449" y="1147" width="1290" height="730" key="SettingsEditor" timestamp="1588609221520">
+      <screen x="0" y="960" width="1920" height="1080" />
+    </state>
+    <state x="449" y="1147" width="1290" height="730" key="SettingsEditor/0.960.1920.1080/255.0.1280.960@0.960.1920.1080" timestamp="1588609221520" />
+  </component>
+</project>
